@@ -36,6 +36,7 @@ public class ResourceCentreTest {
 		camcorderList = new ArrayList<Camcorder>();
 		chromebookList = new ArrayList<Chromebook>();
 	}
+	
 
 	@Test
 	public void testAddCamcorder() {
